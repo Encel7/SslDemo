@@ -1,0 +1,8 @@
+DES/CBC/NoPadding
+DES/CBC/PKCS5Padding
+DES/ECB/NoPadding
+DES/ECB/PKCS5Padding
+DESede/CBC/NoPadding
+DESede/CBC/PKCS5Padding
+DESede/ECB/NoPadding
+DESede/ECB/PKCS5Padding
